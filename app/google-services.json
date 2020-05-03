@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "519457430135",
+    "firebase_url": "https://explorer-school-ccode.firebaseio.com",
+    "project_id": "explorer-school-ccode",
+    "storage_bucket": "explorer-school-ccode.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519457430135:android:b53d77a9be00d558758472",
+        "android_client_info": {
+          "package_name": "in.ccode.explorerschool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "519457430135-ceacpick3a41cbkigjj2b5qk033o20f0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBehnuasNoCTIsNrENcX9h8G9LdBAi5Ync"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "519457430135-ceacpick3a41cbkigjj2b5qk033o20f0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

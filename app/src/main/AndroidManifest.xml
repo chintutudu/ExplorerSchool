@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="in.ccode.explorerschool">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".feesActivity.FeesActivity"
+            android:theme="@style/FeesActivityTheme"></activity>
+        <activity
+            android:name=".circularActivity.CircularActivity"
+            android:theme="@style/CircularsActivityTheme"/>
+        <activity
+            android:name=".marksActivity.MarksActivity"
+            android:theme="@style/MarksActivityTheme"/>
+        <activity
+            android:name=".calendarActivity.CalendarActivity"
+            android:theme="@style/CalendarActivityTheme"/>
+        <activity
+            android:name=".assignmentActivity.AssignmentActivity"
+            android:theme="@style/AssignmentActivityTheme" />
+        <activity
+            android:name=".attendanceActivity.AttendanceActivity"
+            android:theme="@style/AttendanceActivityTheme" />
+        <activity
+            android:name=".homeActivity.HomeActivity"
+            android:theme="@style/HomeActivityTheme" />
+        <activity android:name=".loginActivity.LoginActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

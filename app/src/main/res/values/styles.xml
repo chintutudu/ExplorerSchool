@@ -1,0 +1,44 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Home Activity Theme-->
+        <item name="colorPrimaryDark">@color/white</item>
+        <item name="android:background">@color/white</item>
+    </style>
+    <!--Main Activity Theme-->
+    <style name="HomeActivityTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimaryDark">@color/lightGray</item>
+        <item name="android:background">@color/white</item>
+    </style>
+    <!--Attendance Activity Theme-->
+    <style name="AttendanceActivityTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimaryDark">@color/red</item>
+        <item name="android:background">@color/white</item>
+    </style>
+    <!--Assignment Activity Theme-->
+    <style name="AssignmentActivityTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimaryDark">@color/green</item>
+        <item name="android:background">@color/white</item>
+    </style>
+    <!--Calendar Activity Theme-->
+    <style name="CalendarActivityTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimaryDark">@color/blue</item>
+        <item name="android:background">@color/white</item>
+    </style>
+    <!--Marks Activity Theme-->
+    <style name="MarksActivityTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimaryDark">@color/orange</item>
+        <item name="android:background">@color/white</item>
+    </style>
+    <!--Circulars Activity Theme-->
+    <style name="CircularsActivityTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimaryDark">@color/yellow</item>
+        <item name="android:background">@color/white</item>
+    </style>
+    <!--Fees Activity Theme-->
+    <style name="FeesActivityTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimaryDark">@color/lightGray</item>
+        <item name="android:background">@color/white</item>
+    </style>
+</resources>

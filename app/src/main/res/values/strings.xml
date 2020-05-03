@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Explorer School</string>
+    <string name="vbb_and_explorer"><![CDATA[VBB & EXPLORER SCHOOL]]></string>
+    <string name="surat">SURAT</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="user_id">User ID</string>
+    <string name="class_dash">Class - </string>
+    <string name="roll_no_dash">Roll No - </string>
+    <string name="shared_preferences_roll_no">shared_preference_roll_no</string>
+    <string name="attendance">Attendance</string>
+    <string name="assignments">Assignments</string>
+    <string name="marks">Marks</string>
+    <string name="calendar">Calendar</string>
+    <string name="fees">Fees</string>
+    <string name="circulars">Circulars</string>
+    <string name="month">Month</string>
+    <string name="days_elapsed">Days Elapsed</string>
+    <string name="present">Present</string>
+    <string name="absent">Absent</string>
+    <string name="dash">-</string>
+    <string name="holiday">Holiday</string>
+    <string name="total">Total</string>
+    <string name="completed">Completed</string>
+    <string name="due">Due</string>
+    <string name="this_week">This Week</string>
+    <string name="events">Events</string>
+    <string name="_class">Class</string>
+    <string name="test">Test</string>
+    <string name="attended">Attended</string>
+    <string name="exams">Exams</string>
+    <string name="tomorrow">Tomorrow</string>
+    <string name="today">Today</string>
+    <string name="date">Date</string>
+    <string name="fine">Fine</string>
+    <string name="fees_paid">Fees Paid</string>
+    <string name="total_fees">Total Fees</string>
+    <string name="last_paid">Last Paid</string>
+
+    <string name="sun">S</string>
+    <string name="mon">M</string>
+    <string name="tue">T</string>
+    <string name="wed">W</string>
+    <string name="thu">T</string>
+    <string name="fri">F</string>
+    <string name="sat">S</string>
+</resources>

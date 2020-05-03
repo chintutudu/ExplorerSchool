@@ -1,0 +1,2 @@
+rootProject.name='Explorer School'
+include ':app'
